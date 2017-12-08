@@ -7,5 +7,5 @@ export const environment = {
       channel: 'my-resume',
       event: 'update-resume'
   },
-  ngrok_url: '//realtimeresume.azurewebsites.net/'
+  ngrok_url: 'http://realtimeresume.azurewebsites.net/'
 };
